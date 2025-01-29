@@ -1,0 +1,22 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+/* navbar */
+
+.start{
+    position: absolute;
+    left:550px;
+}
+
+/* .container-fluid{
+    position:absolute;
+    top: 10px;
+} */
