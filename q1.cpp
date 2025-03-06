@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     int n;
-    cout << "Enter your score: ";
+    cout << "Enter your score ";
     cin >> n;
 
     //  ternary operator
