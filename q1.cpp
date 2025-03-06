@@ -39,7 +39,7 @@ int main() {
 
     //eligibility check
 
-    if ( n= 'F') {
+    if ( n>=60) {
         cout << 'Congratulations! You are eligible for the next level';
     } else {
         cout << " Please try again next time.";
